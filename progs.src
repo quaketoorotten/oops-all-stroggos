@@ -1,0 +1,43 @@
+../progs.dat
+#pragma autoproto
+
+fteextensions.qc
+defs.qc
+subs.qc
+fight.qc
+ai.qc
+combat.qc
+items.qc
+g_weapons.qc
+world.qc
+client.qc
+player.qc
+monsters.qc
+m_weapons.qc
+doors.qc
+buttons.qc
+triggers.qc
+plats.qc
+misc.qc
+
+ogre.qc
+demon.qc
+shambler.qc
+nazicultist.qc
+glad.qc
+tank.qc
+soldier.qc
+knight.qc
+dog.qc
+floater.qc
+wizard.qc
+zombie.qc
+boss.qc
+parasite.qc
+tarbaby.qc		// registered
+hknight.qc		// registered
+fish.qc			// registered
+shalrath.qc		// registered
+enforcer.qc		// registered
+oldone.qc		// registered
+medic.qc
